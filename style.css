@@ -1,0 +1,168 @@
+*{padding: 0px;
+margin: 0px;}.main{ background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); }
+.nav{display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 220px;padding-right:250px ;
+    background-color: whitesmoke;
+}
+ .th{
+     background-color: whitesmoke;
+     padding-top: 3px; 
+     display: flex;
+     border-right: 1px solid rgb(212, 208, 208);
+     height: 60px; }.th a{
+         padding-left:10px ;
+     }
+ .pok,.cen{
+    border-right: 1px solid rgb(212, 208, 208);
+ }
+ .pok{
+     background-color: white;
+     box-shadow: -1px 2px 1px 1px #888888;
+ }
+ .sa{
+     background-color: whitesmoke;border:1px solid  rgb(212, 208, 208);
+ }
+.navtwo{
+    display: flex;
+    padding-left: 220px;margin-top: 3px;cursor: pointer;
+    flex-wrap: wrap;
+    background-color: whitesmoke;
+    border: 1px solid rgb(212, 208, 208);
+
+}.navtwo div{
+    background-color: white;
+}
+.home{
+    border-bottom :10px solid rgb(121, 105, 105) ;
+    border-radius:0px 10px;
+}.home:hover{
+    background-color:rgb(121, 105, 105) ;
+    
+}.dex{
+  background-color: white;  border-bottom:10px solid red;}
+  .apps{
+    border-bottom :10px solid rgb(204, 32, 32) ;
+}.game{
+    border-bottom :10px solid orange ;
+}.tv{
+    border-bottom :10px solid rgb(65, 156, 65);
+}.eve{
+    border-bottom :10px solid steelblue ;}
+    .new{
+    border-bottom :10px solid blueviolet ;
+    border-radius: 10px 0px;
+
+
+    }.bigger{margin-top: 30px;}
+    
+        
+    
+.big{
+    margin-left: 16%;margin-top: 1%;
+    width: 45%;float: left;
+}.one:hover{background-color: black;}
+.one{
+    width: 100%;  background-color:rgb(68, 61, 61);padding-bottom: 1px;
+    border-radius: 10px;
+}.one img{width: 100%;border-radius:10px 10px 0px 0px;
+
+}.one p{font-size: larger;color: white;padding-left: 10px;}
+.two:hover{background-color: rgb(231, 163, 163);margin-top: 0%;}
+.two{
+    width: 48%;float: left;  background-color: grey; padding-bottom: 1px;font-weight:bolder;
+    border-radius: 10px;margin-top: 1%;
+}.two p{
+    height: 100px;padding-top: 10px;font-size: larger;padding-left: 10px;color: black;
+}
+.two img{width: 100%;     border-radius:10px 10px 0px 0px;
+}.thr:hover{background-color: rgb(204, 204, 255);margin-top: 1%;}
+.thr{
+float: left;width: 48%; background-color: rgb(175, 89, 175);padding-bottom: 1px;
+border-radius: 10px;margin-left: 4%;margin-top: 2%;
+}.thr p{font-size: larger;color: white;padding-left: 10px;}
+.thr img{
+    width: 100%;  border-radius:10px 10px 0px 0px;
+}.klk{
+    width: 23%;    float: left;margin-top:1% ;margin-left: 1%;
+}
+.klk div{
+    width: 100%;
+}.klk div img{
+    width: 100%;
+    border-radius:10px 10px 0px 0px;
+}hr{
+    clear: left;
+}.sev{
+    background-color:rgb(28, 153, 28);padding-bottom: 1px;
+    border-radius: 10px;
+}.sev p{height: 85px;}
+.sev:hover{
+    background-color: chocolate;
+}.eig:hover{background-color: skyblue;margin-top: 0.6%;}
+.eig{padding-bottom: 1px;background-color: blueviolet; margin-top: 1.5%;  border-radius: 10px;}
+.nin:hover{background-color: lightcoral;margin-top: 0.6%;}
+.nin{margin-top: 1.5%;  background-color:rgb(79, 163, 79);padding-bottom: 1px;
+    border-radius: 10px;}
+    .nin img{
+        height: 100px;
+    }.nin p{
+        height: 60px;
+    }
+    .klk p{font-size: larger;padding-left: 10px;color: white;}
+    .lefta{clear: left; width: 50px;padding: 7px; position: fixed;top: 80%;border: 5px solid black;background-color: green;border-radius: 0px 5px 30px 0px;cursor: pointer; padding-left: 15px;}
+    .lefta img{border-radius: 10px;}.exp:hover{background-color: blanchedalmond;color: black;}
+.exp{cursor: pointer; clear: left; margin-left: 40%; background-color: black;color: blanchedalmond;padding: 10px;border: 5px solid rgb(189, 22, 22); width: 250px;font-size: x-large; font-weight: bolder; border-radius: 10px;}
+    .bigger{
+        display:flex;
+      width:69% ; 
+      margin-left: 16%;clear: left;
+    }.foura:hover{background-color:rgb(190, 76, 95) ;}
+    .foura{ background-color:rgb(141, 4, 56);padding-bottom: 1px;margin-top: 1%;
+        border-radius: 10px;}
+    .imgr{background-color:rgba(118, 145, 94, 0.979);padding-bottom: 1px;
+            border-radius: 10px;}.fivea:hover{background-color:rgb(240, 205, 140);}
+    .fivea{background-color:rgb(196, 130, 9);padding-bottom: 1px;
+                border-radius: 10px;}
+    .imgf{background-color:rgba(9, 10, 8, 0.979);padding-bottom: 1px;color: white;
+                    border-radius: 10px;}.sixa:hover{background-color: rgb(131, 80, 80);
+                    }
+    .sixa{ background-color:rgb(158, 81, 120);padding-bottom: 1px;
+        border-radius: 10px;}
+    .imgs{background-color:rgb(168, 157, 5);padding-bottom: 1px;
+                border-radius: 10px;}
+   .four,.five,.six{
+width: 32%;
+    }.five,.six{margin-left: 2%;}
+    .four img,.five img,.six img {
+        width: 100%;
+    }.tena{margin-top: 2%; background-color: orange;border-radius:5px 5px 0px 0px;
+        height: 40px;padding: 10px;color: white;font-weight:bolder;font-size: 20px; }
+    .tena:hover{margin-top: 1%;}    
+    .tenb{font-weight: bolder;padding: 10px; height: 40px;opacity: 50%; background-color: aqua;
+        border-radius: 0px 0px 50px 5px } 
+    .bigger p{padding: 5px 20px;color: white;font-weight: bolder;}
+    .bigger img{border-radius:10px 10px 0px 0px;}
+    .imgr,.imgf,.imgs{margin-top: 5%;}
+    .imgf:hover{background-color: gray;margin-top: 1%;}
+    .imgr:hover{background-color:rgb(94, 172, 94); margin-top: 1%;}
+    .imgs:hover{background-color: rgb(237, 255, 74) ;margin-top: 1%;}
+    .foot{cursor: pointer; clear: left;width: 69%;margin-left: 16%; display: flex;
+        background-color: black;color: white;}
+    
+    .foot li{list-style: none;}
+    .end {display: flex;}
+    .ean li{padding: 10px;}
+    
+    .ean li:hover{color:gray;}
+    .imgt,.end{margin-left: 2%;}
+    .foot div{padding: 20px;}
+    .end img{width: 100%;height: 100px;}
+    .end div{margin-top: -20px;}
+    .l li{font-size: small;padding-top: 20px;text-decoration: underline;}
+    .v img{margin-top: 20px;}
+    .ean h3{margin-left: 10px;}
+    .end .v{width: 70%;}.ean {width: 24%;}
+    .imgt{width: 27%;}.end{width: 32%;}.ean,.imgt{border-right:1px solid gray ;}
+    .nn{background-color: black;} hr{background-color: gray;border: 1px solid black; height: 30px;}
